@@ -15,7 +15,7 @@
 
 <h2>About me 😎</h2> 
 
-🤖 Actually I have been studying a Msc.Artificial Intelligence in Technologic of Monterrey, Mexico 💚🤍❤️
+🤖 Msc.Artificial Intelligence in Technologic of Monterrey, Mexico 💚🤍❤️
 
 🎓 I´m Bsc.Software Developer from Technological University of Panama 💙🤍❤️
 
