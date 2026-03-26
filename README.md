@@ -39,7 +39,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,azure,gcp,rabbitmq,py,django,opencv,pytorch,sklearn,c,cpp,php,html,css,js,java,mongodb,mysql,firebase,postman,arduino,raspberrypi"/>
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg" height="40" style="vertical-align:middle; margin-left:6px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg" height="15" style="vertical-align:middle; margin-left:6px;"/>
 </p>
 
 <br>
