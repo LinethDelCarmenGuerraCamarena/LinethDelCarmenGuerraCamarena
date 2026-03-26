@@ -35,12 +35,14 @@
 
 <br>
 
-<h2>Technologies ⌨️</h2> 
+<h2>Technologies⌨️</h2> 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,azure,gcp,rabbitmq,py,django,opencv,pytorch,sklearn,c,cpp,php,html,css,js,java,mongodb,mysql,firebase,postman,arduino,raspberrypi,n8n"/>
+    <img src="https://skillicons.dev/icons?i=git,docker,azure,gcp,rabbitmq,py,django,opencv,pytorch,sklearn,c,cpp,php,html,css,js,java,mongodb,mysql,firebase,postman,arduino,raspberrypi"/>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg? i=n8n/>
   </a>
+  
 </p>
 
 <br>
