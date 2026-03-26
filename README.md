@@ -39,7 +39,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,azure,gcp,rabbitmq,py,django,opencv,pytorch,sklearn,c,cpp,php,html,css,js,java,mongodb,mysql,firebase,postman,arduino,raspberrypi"/>
+    <img src="https://skillicons.dev/icons?i=git,docker,azure,gcp,rabbitmq,py,django,opencv,pytorch,sklearn,c,cpp,php,html,css,js,java,mongodb,mysql,firebase,postman,arduino,raspberrypi,n8n"/>
   </a>
 </p>
 
